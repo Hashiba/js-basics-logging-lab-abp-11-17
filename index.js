@@ -2,6 +2,4 @@ const driver = 'bob';
 
 console.log("this code was called");
 
-console.console.log(driver);
-
-
+console.log(driver);
